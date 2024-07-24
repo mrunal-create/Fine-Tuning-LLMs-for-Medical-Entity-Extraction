@@ -1,5 +1,5 @@
 # Fine-Tuning LLMs for Medical Entity Extraction
-> #### _Archit | Fall '23 | Duke AIPI 591 (Independent Study in GenAI) Research Project_
+
 &nbsp;  
 
 ## Project Overview ⭐
